@@ -16,21 +16,23 @@ The user's input is collected using the built in alert(), confirm(), and prompt(
 https://hfrancis7.github.io/Module3Challenge-JS_passwordGenerator/
 
 ## Screenshots
-Main page:
-TBA
+### Main page:
+![The Password Generator application displays a red button to "Generate Password".](./images/03-javascript-homework-demo.png) <br>
 
-Asking for length of password:
-TBA
+### Asking for length of password: 
+![The alert box is asking for the length of the password to be generated. The user has input the number 20.](./images/passLength_prompt.png) <br>
 
-Asking which characters to be used:
-TBA
-TBA
-TBA
-TBA
-TBA
+### Asking which characters to be used: <br>
+![The alert box is asking if the user wants to use lowercase letters in the password. The options "OK" and "Cancel" refer to "Yes" and "No" respectively.](./images/lowerCase_prompt.png) <br>
+![The alert box is asking if the user wants to use uppercase letters in the password. The options "OK" and "Cancel" refer to "Yes" and "No" respectively.](./images/upperCase_prompt.png) <br>
+![The alert box is asking if the user wants to use numbers in the password. The options "OK" and "Cancel" refer to "Yes" and "No" respectively.](./images/num_prompt.png) <br>
+![The alert box is asking if the user wants to use special characters in the password. The options "OK" and "Cancel" refer to "Yes" and "No" respectively.](./images/num_prompt.png) <br>
 
-Example of generated password from input in above screenshots:
-TBA
+### Confirming User Input: <br>
+![The alert box is asking if the user is okay with their choices in characters they want to use. The character choices were uppercase, lowercase, numbers, and special characters. "True" and "false" refer to if the user chose to have the selected type of character in their generated password. The options "OK" and "Cancel" refer to "Yes" and "No" respectively.](./images/charConfirm_prompt.png) <br>
+
+### Example of generated password from input in above screenshots:
+![The Password Generator application now displays the generated password from the user input. The red button to "Generate Password" is still displayed below.](./images/password_gen.png) <br>
 
 
 ## User Story
