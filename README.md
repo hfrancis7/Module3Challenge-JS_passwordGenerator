@@ -13,7 +13,7 @@ The special characters used came from this [list of password special characters]
 The user's input is collected using the built in alert(), confirm(), and prompt() functions. As of that weeks material, this was the only User I/O we had been taught and practicing with. As a result, the buttons to confirm user input are "OK"/"Cancel" instead of a "Yes"/"No". In the future, as we learn more about User I/O, such as using forms and creating pop-up windows, future UI will be more personalized to the user's experience and the program's functional purpose.
 
 ## Live Link
-TBA
+https://hfrancis7.github.io/Module3Challenge-JS_passwordGenerator/
 
 ## Screenshots
 Main page:
