@@ -1,7 +1,7 @@
 # Module3Challenge-JS_passwordGenerator
 This is a Javascript exercise from Module 3 of the University of Central Florida's (UCF) October 2022 Part-Time Coding Bootcamp for Full Stack development . <br>
 
-We were provided the HTML and a baseline for the Javascript, and were tasked with writing the function(s) that would give the program functionality.
+We were provided the HTML, CSS, and a baseline for the Javascript, and were tasked with writing the function(s) that would give the program functionality.
 
 ## Functionality
 This is a simple password generator that generates a random password using the specifications gotten from the user's input. <br>
