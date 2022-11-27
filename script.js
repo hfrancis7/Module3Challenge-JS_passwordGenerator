@@ -1,5 +1,9 @@
-//Using alert(), prompt(), and confirm() b/c that was the UI in scope of this week's lesson plan.
-//in future work, better UI could be implemented
+/**
+ * Student Author note: 
+ * Using alert(), prompt(), and confirm() b/c that was the UI in scope of this week's lesson plan.
+ * In future work, better UI could be implemented.
+ * Hailey F.
+ */
 
 // Assignment Code (from assignment)
 var generateBtn = document.querySelector("#generate");
