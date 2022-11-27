@@ -70,7 +70,7 @@ function getCharReq(){
     if(!lower && !upper && !num && !special){ //if none of the options were selected
       alert("You selected \"Cancel\" (no) for every option. Please select \"OK\" for at least one of the four options.");
     }else{
-      let validate = confirm("These are the options you chose. \nLowercase: " + lower + "\nUppercase: " + upper + "\nNumbers: " + num +"\nSpecial Characters: "+ special + "\nAre you OK with these choices?");
+      let validate = confirm("These are the options you chose.\n(\"true\" indicates you chose \"Yes\", \"false\" indicates you chose \"No\".) \nLowercase: " + lower + "\nUppercase: " + upper + "\nNumbers: " + num +"\nSpecial Characters: "+ special + "\nAre you OK with these choices?");
       if(validate){
         return [lower, upper, num, special];
       }
